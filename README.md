@@ -24,7 +24,7 @@ To work in an environment with an objective of succeeding in the area of interes
   Percentage: 89.44%
 
 ## 💼 Skills
-- 💻 **Programming Languages:** C, Python, Java
+- 💻 **Programming Languages:**  Python ,GoLang
 - 🛠️ **Skills:** Machine Learning, MySQL, HTML, CSS, Pandas
 - 📚 **Subjects:** DSA, OOPS, Operating Systems, Computer Networks, RDBMS
 - 🧠 **Soft Skills:** Teamwork, Leadership, Problem Solving

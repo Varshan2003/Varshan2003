@@ -1,7 +1,6 @@
 # 👋 Varshan C R
 
 - 📧 **Email:** beingvarsh@gmail.com
-- 📞 **Phone:** +91 9108956095
 - 🔗 **LinkedIn:** [Varshan C R](https://in.linkedin.com/in/varshan-cr-3030b4213)
 - 📍 **Location:** Mysore, India
 

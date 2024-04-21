@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **GoTo Technologies**
 
-- 🌱 I’m currently learning **Golang and AWS**
+- 🌱 I’m currently learning **LangChain and AWS**
 
 - 📫 How to reach me **beingvarsh@gmail.com**
 
